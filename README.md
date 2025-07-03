@@ -1,1 +1,1 @@
-# PYTHON-FUNDAMENTALS-FOR-DATA-SCIENCE-
+# foundational-python-for-data-science
